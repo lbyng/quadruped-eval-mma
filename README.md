@@ -4,8 +4,8 @@
 
 - Trash Bussing
 
-![trash_bussing](D:\Github\molmo-act-unitree\images\trash_bussing.gif)
+![trash_bussing](.\images\trash_bussing.gif)
 
 - Open the Door
 
-![open_door](D:\Github\molmo-act-unitree\images\open_door.gif)
+![open_door](.\images\open_door.gif)
