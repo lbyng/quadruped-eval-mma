@@ -1,4 +1,4 @@
-# Molmo-Act Pipeline for Unitree
+# quadruped-eval-molmo
 
 ## 1. Demo
 
